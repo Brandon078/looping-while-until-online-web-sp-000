@@ -3,4 +3,5 @@ def using_until
   while counter < 10
     puts "Winguardian Leviosa"
     counter += 1
+  end
 end
